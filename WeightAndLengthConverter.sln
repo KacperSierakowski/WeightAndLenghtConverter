@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightAndLenghtConverter", "WeightAndLenghtConverter\WeightAndLenghtConverter.csproj", "{CD3BC903-A1DC-487F-B3B8-39C230F2070D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightAndLengthConverter", "WeightAndLenghtConverter\WeightAndLengthConverter.csproj", "{CD3BC903-A1DC-487F-B3B8-39C230F2070D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
